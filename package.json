@@ -17,6 +17,8 @@
     "reactstrap": "^8.5.1",
     "sidebar": "^1.0.2"
   },
+
+  "homepage": "http://gitname.github.io/react-gh-pages",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
