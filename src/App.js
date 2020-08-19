@@ -11,12 +11,7 @@ class App extends Component {
   state = {  }
   render() { 
     return ( 
-    <Router>
-      <Switch>
-        <Route path = '/' exact={true} component={Home}/>
-        <Route path = '/categories' exact={true} component={Category}/>
-      </Switch>
-    </Router>
+    <Home />
      );
   }
 }
