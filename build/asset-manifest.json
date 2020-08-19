@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd112ec6.chunk.css",
+    "main.js": "/static/js/main.088695cb.chunk.js",
+    "main.js.map": "/static/js/main.088695cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc36b19e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc36b19e.js.map",
+    "static/css/2.69f239f3.chunk.css": "/static/css/2.69f239f3.chunk.css",
+    "static/js/2.aede60c9.chunk.js": "/static/js/2.aede60c9.chunk.js",
+    "static/js/2.aede60c9.chunk.js.map": "/static/js/2.aede60c9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b25e467584fca7b534fdea61aa718e13.js": "/precache-manifest.b25e467584fca7b534fdea61aa718e13.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.69f239f3.chunk.css.map": "/static/css/2.69f239f3.chunk.css.map",
+    "static/css/main.bd112ec6.chunk.css.map": "/static/css/main.bd112ec6.chunk.css.map",
+    "static/js/2.aede60c9.chunk.js.LICENSE.txt": "/static/js/2.aede60c9.chunk.js.LICENSE.txt",
+    "static/media/Contacts01.png": "/static/media/Contacts01.7b694159.png",
+    "static/media/Expense-01.png": "/static/media/Expense-01.b1ca73ff.png",
+    "static/media/Tennis-Store01.png": "/static/media/Tennis-Store01.9c1f8e1a.png",
+    "static/media/University01.png": "/static/media/University01.3de07e75.png",
+    "static/media/Projects.css": "/static/media/bg-image01.24e62cb4.png",
+    "static/media/facebook01.png": "/static/media/facebook01.322a35c1.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/profile-pic.png": "/static/media/profile-pic.8174398f.png",
+    "static/media/profile-pic03.png": "/static/media/profile-pic03.d4a1f781.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc36b19e.js",
+    "static/css/2.69f239f3.chunk.css",
+    "static/js/2.aede60c9.chunk.js",
+    "static/css/main.bd112ec6.chunk.css",
+    "static/js/main.088695cb.chunk.js"
+  ]
+}
