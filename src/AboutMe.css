@@ -1,0 +1,33 @@
+.divAboutMeStyle{
+    width: 100%;
+    height: fit-content;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url(assets/bg-image01.png);
+    background-size: 'cover'; 
+}
+.divAboutMeHeader{
+    height: 100px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: ivory;
+}
+.divAboutMeDetails{
+
+    max-width: 80%;
+    margin-left: 10%;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(173, 226, 230);
+}
+a1{
+    color:blue;
+    font-size: x-large;
+    font-weight: bold;
+}
+a2{
+    color: whitesmoke;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

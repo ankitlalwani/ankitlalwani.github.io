@@ -1,0 +1,48 @@
+
+.divEducationStyle{
+    width: 100%;
+    height: fit-content;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url(assets/bg-image01.png);
+    background-size: 'cover'; 
+}
+
+.divEducationBox{
+    width: 70%;
+    border: 1px solid white;
+    background-color: lightgray;
+    padding: 30px;
+    margin-left: 15%;
+   
+}
+.divEducation-Box-Cover{
+    margin-top: 40px;
+    height: 150px;
+}
+
+.tdEducation-First-Column-First-Row{
+    font-size: medium;
+    font-weight: bold;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 550px;
+   
+}
+
+.tdEducation-Second-Column-First-Row{
+    font-size: medium;
+    text-align: end;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    padding-left: 100px;
+    padding-right: 0px;
+    width: 300px;
+}
+
+.tdEducation-First-Column-Second-Row{
+    font-size: medium;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 550px;
+   
+}

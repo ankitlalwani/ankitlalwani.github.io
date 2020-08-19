@@ -1,0 +1,21 @@
+
+.divProjectsStyle{
+    width: 100%;
+    height: fit-content;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    background-image: url(assets/bg-image01.png);
+    background-size: 'cover'; 
+}
+
+.divProjects-Cards{
+    width: 80%;
+    padding-top: 3%;
+    display: inline-flex;
+}
+
+.divProjects-Cards-inside{
+    width: 50%;
+    height: 30%;
+    display: inline-flex;
+}

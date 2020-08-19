@@ -1,0 +1,44 @@
+.divExperienceStyle{
+    width: 100%;
+    height: fit-content;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url(assets/bg-image01.png);
+    background-size: 'cover'; 
+}
+
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .vl {
+    border-left: 6px blue;
+    height: 50px;
+  }
+
+  .solid {
+    border-top: 2px solid white;
+    width: 50mm;
+    margin-top: 0px;
+  }
+
+  .h3Experience {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+  }
+  .button-experience-responsibilities{
+      
+      color: black;
+      font-size: medium;
+      font-weight: bold;
+
+  }
+
+  .popover {
+    max-width: 500px;
+}

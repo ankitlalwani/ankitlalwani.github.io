@@ -1,0 +1,44 @@
+.solid-Contacts {
+    border-top: 2px solid white;
+    width: 40mm;
+    margin-top: 0px;
+  }
+
+  .divContactDetails{
+
+    max-width: 80%;
+    margin-left: 10%;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.divContact-wrapper{
+    width: 50%;
+    display: inline-flex;
+    background-color: gray;
+}
+
+
+.divContact-email{
+    width: inherit;
+    align-items: center;
+    float: left;
+    color: ivory;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+.divContact-media{
+    width: inherit;
+align-items: center;
+float: right;
+}
+
+.h3-Contact-media{
+    align-items: center;
+    color: blue;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }

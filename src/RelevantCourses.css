@@ -1,0 +1,15 @@
+.divRelevantCoursesStyle{
+    width: 100%;
+    height: 950px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url(assets/bg-image01.png);
+    background-size: 'cover'; 
+}
+
+
+.solid-RelevantCoursework {
+    border-top: 2px solid white;
+    width: 100mm;
+    margin-top: 0px;
+  }
