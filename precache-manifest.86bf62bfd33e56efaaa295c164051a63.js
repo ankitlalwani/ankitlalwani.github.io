@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ace24e1d2b1ac8e4d16c882fb00b1818",
+    "revision": "e88e7ed9a87a48e54680b2f75922d89c",
     "url": "/index.html"
   },
   {
-    "revision": "d1bb9ea737f12c1e30f0",
+    "revision": "d56bd5a5e7012b9152a5",
     "url": "/static/css/2.1a643284.chunk.css"
   },
   {
-    "revision": "fc2763ec8a0611f13dbe",
-    "url": "/static/css/main.c3901ef2.chunk.css"
+    "revision": "c1203851681bf8388b48",
+    "url": "/static/css/main.0494b30a.chunk.css"
   },
   {
-    "revision": "d1bb9ea737f12c1e30f0",
-    "url": "/static/js/2.0b88c4d7.chunk.js"
+    "revision": "d56bd5a5e7012b9152a5",
+    "url": "/static/js/2.4e2a2d8f.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.0b88c4d7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4e2a2d8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc2763ec8a0611f13dbe",
-    "url": "/static/js/main.7d871402.chunk.js"
+    "revision": "c1203851681bf8388b48",
+    "url": "/static/js/main.f587c5df.chunk.js"
   },
   {
     "revision": "f438879c68bfc8864397",
@@ -42,6 +42,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c1f8e1a1d550e8443594332292868ef",
     "url": "/static/media/Tennis-Store01.9c1f8e1a.png"
+  },
+  {
+    "revision": "14531a19f442f19e9eebfef4fd152f28",
+    "url": "/static/media/Transaction-risk-engine Alert Page.14531a19.png"
+  },
+  {
+    "revision": "5cae1e8b79ed311b92a4ab0ce93c0dec",
+    "url": "/static/media/Transaction-risk-engine Risk Decision Page.5cae1e8b.png"
+  },
+  {
+    "revision": "67d24b900add11282e1ad66a467c0952",
+    "url": "/static/media/Transaction-risk-engine create-transaction.67d24b90.png"
+  },
+  {
+    "revision": "4e0594e6eb43766f6cf20b92e9388520",
+    "url": "/static/media/Transaction-risk-engine dashboard.4e0594e6.png"
   },
   {
     "revision": "3de07e75fc30e1702ed142084462076f",

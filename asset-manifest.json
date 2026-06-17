@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3901ef2.chunk.css",
-    "main.js": "/static/js/main.7d871402.chunk.js",
-    "main.js.map": "/static/js/main.7d871402.chunk.js.map",
+    "main.css": "/static/css/main.0494b30a.chunk.css",
+    "main.js": "/static/js/main.f587c5df.chunk.js",
+    "main.js.map": "/static/js/main.f587c5df.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cc36b19e.js",
     "runtime-main.js.map": "/static/js/runtime-main.cc36b19e.js.map",
     "static/css/2.1a643284.chunk.css": "/static/css/2.1a643284.chunk.css",
-    "static/js/2.0b88c4d7.chunk.js": "/static/js/2.0b88c4d7.chunk.js",
-    "static/js/2.0b88c4d7.chunk.js.map": "/static/js/2.0b88c4d7.chunk.js.map",
+    "static/js/2.4e2a2d8f.chunk.js": "/static/js/2.4e2a2d8f.chunk.js",
+    "static/js/2.4e2a2d8f.chunk.js.map": "/static/js/2.4e2a2d8f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e1847bde825ed8001102bf19d5e4b287.js": "/precache-manifest.e1847bde825ed8001102bf19d5e4b287.js",
+    "precache-manifest.86bf62bfd33e56efaaa295c164051a63.js": "/precache-manifest.86bf62bfd33e56efaaa295c164051a63.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1a643284.chunk.css.map": "/static/css/2.1a643284.chunk.css.map",
-    "static/css/main.c3901ef2.chunk.css.map": "/static/css/main.c3901ef2.chunk.css.map",
-    "static/js/2.0b88c4d7.chunk.js.LICENSE.txt": "/static/js/2.0b88c4d7.chunk.js.LICENSE.txt",
+    "static/css/main.0494b30a.chunk.css.map": "/static/css/main.0494b30a.chunk.css.map",
+    "static/js/2.4e2a2d8f.chunk.js.LICENSE.txt": "/static/js/2.4e2a2d8f.chunk.js.LICENSE.txt",
     "static/media/Contacts01.png": "/static/media/Contacts01.7b694159.png",
     "static/media/Expense-01.png": "/static/media/Expense-01.b1ca73ff.png",
     "static/media/Sort-Visualizer.png": "/static/media/Sort-Visualizer.30d20c3c.png",
     "static/media/Tennis-Store01.png": "/static/media/Tennis-Store01.9c1f8e1a.png",
+    "static/media/Transaction-risk-engine Alert Page.png": "/static/media/Transaction-risk-engine Alert Page.14531a19.png",
+    "static/media/Transaction-risk-engine Risk Decision Page.png": "/static/media/Transaction-risk-engine Risk Decision Page.5cae1e8b.png",
+    "static/media/Transaction-risk-engine create-transaction.png": "/static/media/Transaction-risk-engine create-transaction.67d24b90.png",
+    "static/media/Transaction-risk-engine dashboard.png": "/static/media/Transaction-risk-engine dashboard.4e0594e6.png",
     "static/media/University01.png": "/static/media/University01.3de07e75.png",
     "static/media/Home.css": "/static/media/bg-image01.24e62cb4.png",
     "static/media/facebook01.png": "/static/media/facebook01.322a35c1.png",
@@ -26,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc36b19e.js",
     "static/css/2.1a643284.chunk.css",
-    "static/js/2.0b88c4d7.chunk.js",
-    "static/css/main.c3901ef2.chunk.css",
-    "static/js/main.7d871402.chunk.js"
+    "static/js/2.4e2a2d8f.chunk.js",
+    "static/css/main.0494b30a.chunk.css",
+    "static/js/main.f587c5df.chunk.js"
   ]
 }
